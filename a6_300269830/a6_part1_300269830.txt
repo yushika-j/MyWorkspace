@@ -1,0 +1,22 @@
+Question 1
+Suppose n = 10,000
+The function largest_34(a) has 1 for loop, which executes 10,000 operations.
+So, it performs O(n) operations.
+
+
+Question 2
+Suppose n = 10,000
+The function largest_third(a) has 1 for loop, which executes 10,000 operations.
+So, it performs O(n) operations.
+
+
+Question 3
+Suppose n = 10,000
+The function third_at_least(a) has 1 for loop, which executes 10,000 operations.
+So, it performs O(n) operations.
+
+Question 4
+Suppose n = 10,000
+The sum_tri(a,x) has 3 nested for loops. The inner loop executes 10,000*10,000 times for each step for the outer loop.
+The middle inner loop executes 10,000 times for each step of outer loop.
+Therefore, this function performs roughly 10,000 * 10,000 * 10,000 operations. So, it performs O(n^3) operations.

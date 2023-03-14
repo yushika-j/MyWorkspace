@@ -1,0 +1,174 @@
+Python 3.9.7 (tags/v3.9.7:1016ef3, Aug 30 2021, 20:19:38) [MSC v.1929 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+============ RESTART: C:\Users\yushi\Music\A1_XXXXXX\a1_300269830.py ===========
+>>> # testing Question 1
+>>> 
+>>> mh2kh(5)
+8.04672
+>>> 
+>>> mh2kh(110.4)
+177.67157760000003
+>>> 
+>>> mh2kh(90)
+144.84096
+>>> 
+>>> # testing Question 2
+
+>>> pythagorean_pair(2,2)
+False
+>>> pythagorean_pair(6,2)
+False
+>>> pythagorean_pair(6,8)
+True
+>>> pythagorean_pair(300,-400)
+True
+>>> pythagorean_pair(12,-5)
+True
+>>> 
+>>> # testing Question 3
+>>> 
+>>> in_out(0,0,2.5)
+Enter a number for the x coordinate of a query point: 0
+Enter a number for the y coordinate of a query point: 1.2
+True
+>>> in_out(2.5,1,1)
+Enter a number for the x coordinate of a query point: -1
+Enter a number for the y coordinate of a query point: 1.5
+False
+>>> in_out(-2.5,1,2.1)
+Enter a number for the x coordinate of a query point: -1
+Enter a number for the y coordinate of a query point: 1.5
+True
+>>> in_out(27.5,107.15,8)
+Enter a number for the x coordinate of a query point: 28.5
+Enter a number for the y coordinate of a query point: 100.5
+False
+>>> 
+>>> # testing question 4
+>>> 
+>>> safe(93)
+False
+>>> safe(82)
+True
+>>> safe(29)
+False
+>>> safe(36)
+False
+>>> safe(9)
+False
+>>> safe(7)
+True
+>>> 
+>>> # testing Question 5
+>>> 
+>>> quote_maker("Everything should be made as simple as possible but not simpler.","Albert Einstein","1933")
+In year 1933, a person called Albert Einstein said: " Everything should be made as simple as possible but not simpler." 
+>>> 
+>>> quote_maker("I would never die for my beliefs because I might be wrong.","Bertrant Russell", "1951")
+In year 1951, a person called Bertrant Russell said: " I would never die for my beliefs because I might be wrong." 
+>>> quote_maker("You must be the change you wish to see in the world", "Mahatma Gandhi","1989")
+In year 1989, a person called Mahatma Gandhi said: " You must be the change you wish to see in the world" 
+>>> 
+>>> # testing Question 6
+>>> 
+>>> quote_displayer()
+Give me a quote: The best lack all conviction while the worst are full of passionate intensity.
+Who said that?: Bertrand Russell
+In what year did he/she say that?: 1960
+In year 1960, a person called Bertrand Russell said: "The best lack all conviction while the worst are full of passionate intensity." 
+>>> 
+>>> quote_displayer()
+Give me a quote: A person who never made a mistake, never tried anything new.
+Who said that?: Albert Einstein
+In what year did he/she say that?: 1995
+In year 1995, a person called Albert Einstein said: "A person who never made a mistake, never tried anything new." 
+>>> 
+>>> #testing Question 7
+>>> 
+>>> rps_winner()
+What choice did player 1 make?
+Type one of the following options: rock, paper, scissors: rock
+What choice did player 2 make?
+Type one of the following options: rock, paper, scissors: paper
+Player 1 wins. That is False
+It is a tie. That is not True
+>>>
+>>> # testing Question 8
+>>> 
+>>> fun(7)
+0.25
+>>> fun(20)
+0.3404319590043982
+>>> fun(9999999997)
+2.25
+>>> fun(0.1)
+0.12284042345856816
+>>> fun(80)
+0.4797695230940185
+>>> 
+>>> # testing Question 9
+>>> 
+>>> ascii_name_plaque("momo")
+**********
+*        *
+*__momo__*
+*        *
+**********
+>>> ascii_name_plaque("Captain Kara 'Starbuck' Thrace")
+************************************
+*                                  *
+*__Captain Kara 'Starbuck' Thrace__*
+*                                  *
+************************************
+>>> ascii_name_plaque("Seven of Nine")
+*******************
+*                 *
+*__Seven of Nine__*
+*                 *
+*******************
+>>> 
+>>> # testing Question 11
+>>> 
+>>> alogical(5.4)
+0
+>>> alogical(4)
+0
+>>> alogical(1000)
+0
+>>> 
+>>> # testing Question 12
+>>> 
+>>> cad_cashier(10.58,11)
+0.4
+>>> cad_cashier(98.87,100)
+1.15
+>>> cad_cashier(10.58,15)
+4.4
+>>> cad_cashier(10.55,15)
+4.45
+>>> cad_cashier(10.54,15)
+4.45
+>>> cad_cashier(10.52,15)
+4.5
+>>> cad_cashier(10.50,15)
+4.5
+>>> cad_cashier(68.69,100)
+31.3
+>>> 
+>>> # testing Question 13
+>>> 
+>>> min_CAD_coins(10.58,11)
+(0, 0, 1, 1, 1)
+>>> min_CAD_coins(10.58,11)
+(0, 0, 1, 1, 1)
+>>> min_CAD_coins(10.55,15)
+(2, 0, 1, 2, 0)
+>>> min_CAD_coins(10.54,15)
+(2, 0, 1, 2, 0)
+>>> min_CAD_coins(10.52,15)
+(2, 0, 2, 0, 0)
+>>> min_CAD_coins(10.50,15)
+(2, 0, 2, 0, 0)
+>>> min_CAD_coins(3, 20)
+(8, 1, 0, 0, 0)

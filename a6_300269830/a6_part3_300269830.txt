@@ -1,0 +1,36 @@
+Python 3.9.7 (tags/v3.9.7:1016ef3, Aug 30 2021, 20:19:38) [MSC v.1929 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+= RESTART: C:\Users\yushi\Music\a6 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\a6_part3_300269830.py
+>>> print(overlap({0,19,14,15,5,8,9,3},[0,19,11,12,7,5,1,15]))
+{0, 19, 5, 15}
+>>> print(overlap({0},[0,19,11,12,7,5,1,15]))
+{0}
+>>> print(overlap({0,19,14,15,5,8,9,3},[5,1,15]))
+{5, 15}
+>>> 
+>>> # TESTING QUESTION 2
+
+{'Marty': [42, 3], 'Sue': [81], 'Ed': [17, 56, 29], 'Dave': [31]}
+>>> print(reverse({42:"Joe",81:"Shin", 17:"john",31:"Dave",56:"Ed",3:"Marty",29: "Joe"}))
+
+{'Joe': [42, 29], 'Shin': [81], 'john': [17], 'Dave': [31], 'Ed': [56], 'Marty': [3]}
+
+>>> # TESTING QUESTION 3
+>>> print(digit_sum(1969))
+25
+>>> print(digit_sum(196967))
+38
+>>> print(digit_sum(12))
+3
+>>> print(digit_sum(196))
+16
+>>> print(digital_root("1969"))
+7
+>>> print(digital_root("196"))
+7
+>>> print(digital_root("9"))
+9
+>>> print(digital_root("10001"))
+2
+>>> 

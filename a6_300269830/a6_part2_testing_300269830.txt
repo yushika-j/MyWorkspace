@@ -1,0 +1,37 @@
+Python 3.9.7 (tags/v3.9.7:1016ef3, Aug 30 2021, 20:19:38) [MSC v.1929 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+= RESTART: C:\Users\yushi\Music\a6 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\a6_part2_300269830.py
+>>> rectangle1 = rectangle(2,3,6,5)
+>>> rectangle2 = rectangle(3,8,7,8)
+>>> rectangle3 = rectangle(18,12,17,11)
+>>> rectangle4 = rectangle(2,3,6,5)
+>>> rectangle5 = rectangle
+>>> rectangle.set_x(rectangle5,8)
+>>> rectangle.set_y(rectangle5,6)
+>>> rectangle.set_width(rectangle5,7)
+>>> rectangle.set_height(rectangle5,5)
+>>> rectangle.__str__(rectangle2)
+Rectangle[x=3,y=8,width=7,height=8]
+>>> rectangle.get_x(rectangle5)
+8
+>>> rectangle.get_x(rectangle5)
+8
+>>> rectangle.get_y(rectangle5)
+6
+>>> rectangle.get_width(rectangle5)
+7
+>>> rectangle1.union(rectangle2)
+32
+>>> rectangle1.intersection(rectangle2)
+5
+>>> rectangle1.intersection(rectangle3)
+144
+>>> rectangle1.__eq__(rectangle4)
+True
+>>> rectangle1.contains(3,4)
+False
+>>> rectangle2 = rectangle(3,8,7,8)
+>>> rectangle1.contains(4,7)
+False
+>>> 

@@ -1,0 +1,7 @@
+abc //true
+(abc) //true
+{(x+y)-[2*z]} //true
+({[cos(x)+1]*7}/(5+z)+log_2(n)) //true
+
+(() //false
+10^100*log_10[n)/log_10(2) //false

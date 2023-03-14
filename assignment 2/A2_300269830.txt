@@ -1,0 +1,145 @@
+Python 3.9.7 (tags/v3.9.7:1016ef3, Aug 30 2021, 20:19:38) [MSC v.1929 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+========== RESTART: C:\Users\yushi\Music\assignment 2\A2_300269830.py ==========
+>>> #Testing Question 1
+>>> repeat("ho",3,", ")
+'ho, ho, ho'
+>>> repeat("Hello",5,"! ")
+'Hello! Hello! Hello! Hello! Hello'
+>>> 
+>>> #Testing Question 2
+>>> points(0,0,1,1)
+The slope is  1.0  and the distance is  1.4142135623730951
+>>> points(0,0,0,1)
+The slope is  infinity  and the distance is  1.0
+>>> points(2,5,6,4)
+The slope is  -0.25  and the distance is  4.123105625617661
+>>> 
+>>> #Testing Question 3
+>>> rps('P','S')
+1
+>>> rps('R','P')
+1
+>>> rps('S','P')
+-1
+>>> rps('S','S')
+0
+>>> #Testing Question 4
+>>> 
+>>> leap(2008)
+True
+>>> leap(1900)
+False
+>>> leap(2000)
+True
+>>> leap(2016)
+True
+>>> 
+>>> #Testing Question 5
+>>> 
+>>> month_apart(6,14,9,21)
+June
+month_apart( 6 , 14 , 9 , 21 ) should return  True ,     because  June 14 is at least a month before September 21
+>>> month_apart(7,7,6,8)
+July
+month_apart( 7 , 7 , 6 , 8 ) should return  False ,     because  July 7 isn't at least a month before June 8
+>>> month_apart(10,14,7,15)
+October
+month_apart( 10 , 14 , 7 , 15 ) should return  True ,     because  October 14 is at least a month before July 15
+>>> month_apart(6,14,6,8)
+June
+month_apart( 6 , 14 , 6 , 8 ) should return  False ,     because  June 14 isn't at least a month before June 8
+>>> 
+>>> #Testing Question 6
+>>> #(a)
+>>> allTheSame(3,4,5)
+False
+>>> allTheSame(2,2,2)
+True
+>>> allTheSame(2,2,4)
+False
+>>> 
+>>> #Testing Question 6
+>>> #(b)
+>>> allDifferent(2,3,4)
+True
+>>> allDifferent(2,2,2)
+False
+>>> 
+>>> allDifferent(2,5,5)
+False
+>>> #Testing Question 6
+>>> #(c)
+>>> allSorted(2,3,4)
+True
+>>> allSorted(2,1,3)
+False
+>>> allSorted(3,4,6)
+True
+>>> #Testing Question 7
+>>>
+>>> letter2number('A-')
+3.7
+>>> letter2number('B+')
+3.3
+>>>
+>>> letter2number('C ')
+2
+>>> #Testing Question 8
+>>> is_nneg_f("2.15")
+True
+>>> is_nneg_f("3.")
+True
+>>> is_nneg_f("-12")
+False
+>>> is_nneg_f("1e10")
+False
+>>> is_nneg_f("30k3")
+False
+>>> #Testing Question 9
+>>> min_enclosing_circle(1,1,1)
+(0, 0)
+>>> min_enclosing_circle(4.5,10,2)
+(5.5, -2.5)
+>>> min_enclosing_circle(-1,10,2)
+>>> min_enclosing_circle(500,1000,2000)
+(500, 1500)
+>>> min_enclosing_circle(2,5,6)
+(3, 4)
+>>> #TEsting Question 10
+>>> l2lo(7.5)
+(7, 8.0)
+>>> l2lo(9.25)
+(9, 4.0)
+>>> l2lo(4.87)
+(4, 13.920000000000002)
+>>> #Testing Question 11
+>>> vote_percentage('yes, yes, yes, yes, yes, abstained, abstained, yes,yes, yes')
+1.0
+>>> vote_percentage('yes, yes,no,yes,no,yes,abstained,yes,yes,no')
+0.6666666666666666
+>>> vote_percentage('no yes no no,yes yes yes no')
+0.5
+>>> #Testing Question 12
+>>> vote()
+Enter the yes, no, abstained votes one by one and then press enter :yes, yes, yes, yes, yes, abstained, abstained, yes,yes, yes
+'proposal passes unanimously'
+>>> vote()
+Enter the yes, no, abstained votes one by one and then press enter :yes, yes,no,yes,no,yes,abstained,yes,yes,no
+'super majority'
+>>> #Testion Question 13
+>>> count_even_digits(8346487,7)
+5
+>>> count_even_digits(8346387,7)
+4
+>>> count_even_digits(88732,5)
+3
+>>> help(count_even_digits)
+Help on function count_even_digits in module __main__:
+
+count_even_digits(number, digit_count)
+    (number,number)-> number
+    Returns how many even numbers the string has
+
+>>> 

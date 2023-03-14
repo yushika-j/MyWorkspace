@@ -1,0 +1,146 @@
+Python 3.9.7 (tags/v3.9.7:1016ef3, Aug 30 2021, 20:19:38) [MSC v.1929 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+========== RESTART: C:\Users\yushi\Music\assignment 3\a3_300269830.py ==========
+>>> # Testing Task 1.1
+>>> sum_odd_divisors(-9)
+13
+>>> sum_odd_divisors(1)
+1
+>>> sum_odd_divisors(2)
+1
+>>> sum_odd_divisors(3)
+4
+>>> sum_odd_divisors(7)
+8
+>>> sum_odd_divisors(-2001)
+2880
+>>> sum_odd_divisors(-1985)
+2388
+>>> 
+>>> #Testing Task 1.2
+>>> series_sum()
+Please enter a non-negative integer: -10
+>>> series_sum()
+Please enter a non-negative integer: 0
+1000
+>>> series_sum()
+Please enter a non-negative integer: 5
+1001.463611111111
+>>> series_sum()
+Please enter a non-negative integer: 7
+1001.5117970521542
+>>> 
+>>> #Testing Task 1.3
+>>> pell(0)
+0
+>>> pell(1)
+1
+>>> pell(2)
+2
+>>> pell(3)
+5
+>>> pell(-45)
+>>> pell(6)
+70
+>>> pell(1743)
+>>> 
+>>> #Testing Task 1.4
+>>> countMembers("\\")
+1
+>>> countMembers("2\'")
+1
+>>> countMembers("1\'")
+0
+>>> countMembers("2aAb3?eE'_13")
+4
+>>> countMembers("one, Two")
+3
+>>> 
+>>> #Testing Task 1.5
+>>> 
+>>> casual_number("251")
+'251'
+>>> casual_number("1,aba,251")
+>>> casual_number("1,251")
+'1251'
+>>> casual_number("1251")
+'1251'
+>>> casual_number("-97,251")
+'-97251'
+>>> casual_number("-97251")
+'-97251'
+>>> casual_number("--97,251")
+>>> casual_number("-1,000,001")
+'-1000001'
+>>> casual_number("999,999,999,876")
+'999999999876'
+>>> casual_number("-2")
+'-2'
+>>> 
+>>> #Testing Task 1.6
+>>> alienNumbers("a!ya!U!NaU")
+1095
+>>> alienNumbers("aaaUUU")
+129
+>>> alienNumbers("")
+0
+>>> alienNumbersAgain("a!ya!U!NaU")
+1095
+>>> alienNumbersAgain("aaaUUU")
+129
+>>> alienNumbersAgain("")
+0
+>>> 
+>>> #Testing Task 1.8
+>>> encrypt("Hello, world")
+'Hlerlolwo ,'
+>>> encrypt("1234")
+'4132'
+>>> encrypt("12345")
+'51423'
+>>> encrypt("1")
+'1'
+>>> encrypt("123")
+'312'
+>>> encrypt("12")
+'21'
+>>> encrypt("Secret Message")
+'eSgeacsrseetM '
+>>> encrypt(",'4'r")
+"r,''4"
+>>> 
+>>> #Testing Task 1.9
+>>> oPify("aa")
+'aopa'
+>>> oPify("aB")
+'aoPB'
+>>> oPify("ooo")
+'oopoopo'
+>>> oPify("ax1")
+'aopx1'
+>>> oPify("abcdef22")
+'aopbopcopdopeopf22'
+>>> oPify("abcdef22x")
+'aopbopcopdopeopf22x'
+>>> oPify("aBCdef22x")
+'aoPBOPCOpdopeopf22x'
+>>> oPify("x")
+'x'
+>>> oPify("123456")
+'123456'
+>>> 
+>>> #Testing Task 1.10
+>>> 
+>>> nonrepetitive("")
+True
+>>> nonrepetitive("a")
+True
+>>> nonrepetitive("zrtzghtghtghtq")
+False
+>>> nonrepetitive("abcab")
+True
+>>> nonrepetitive("12341341")
+False
+>>> nonrepetitive("44")
+False
