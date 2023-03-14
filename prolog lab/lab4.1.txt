@@ -1,0 +1,39 @@
+Welcome to SWI-Prolog (threaded, 64 bits, version 9.0.4)
+SWI-Prolog comes with ABSOLUTELY NO WARRANTY. This is free software.
+Please run ?- license. for legal details.
+
+For online help and background, visit https://www.swi-prolog.org
+For built-in help, use ?- help(Topic). or ?- apropos(Word).
+
+?- 
+% c:/Users/Yushika/Documents/WINTER 2023 UOTTAWA/CSI 2520 - paradigmes de programmation/lab4 compiled 0.00 sec, 22 clauses
+?-  etudiant(X, Y), professeur(minsky, Y).
+X = jean,
+Y = csi2510 ;
+X = henri,
+Y = csi2510 ;
+false.
+?- etudiant(X, Y), annee(X, 4).
+X = henri,
+Y = csi2510 ;
+X = henri,
+Y = csi2530.
+
+?- etudiant(X, Y), etudiant(Z, Y), X \= Z, professeur(P, Y).
+X = jean,
+Y = csi2510,
+Z = henri,
+P = minsky ;
+X = henri,
+Y = csi2510,
+Z = jean,
+P = minsky ;
+false.
+
+?- reussit(fred, csi2520).
+true.
+
+?- reussit(jean, csi2772).
+true.
+?- reussit(jean, csi2510).
+true.
