@@ -1,0 +1,724 @@
+$ java CapacityOptimizer 11
+==== Setting lot capacity to: 1====
+Simulation run 1 (27ms); Queue length at the end of simulation run: 255
+Simulation run 2 (12ms); Queue length at the end of simulation run: 262
+Simulation run 3 (9ms); Queue length at the end of simulation run: 229
+Simulation run 4 (9ms); Queue length at the end of simulation run: 251
+Simulation run 5 (9ms); Queue length at the end of simulation run: 267
+Simulation run 6 (8ms); Queue length at the end of simulation run: 262
+Simulation run 7 (8ms); Queue length at the end of simulation run: 260
+Simulation run 8 (9ms); Queue length at the end of simulation run: 260
+Simulation run 9 (8ms); Queue length at the end of simulation run: 244
+Simulation run 10 (10ms); Queue length at the end of simulation run: 267
+
+==== Setting lot capacity to: 2====
+Simulation run 1 (19ms); Queue length at the end of simulation run: 241
+Simulation run 2 (17ms); Queue length at the end of simulation run: 236
+Simulation run 3 (17ms); Queue length at the end of simulation run: 280
+Simulation run 4 (17ms); Queue length at the end of simulation run: 255
+Simulation run 5 (16ms); Queue length at the end of simulation run: 251
+Simulation run 6 (16ms); Queue length at the end of simulation run: 260
+Simulation run 7 (16ms); Queue length at the end of simulation run: 232
+Simulation run 8 (15ms); Queue length at the end of simulation run: 256
+Simulation run 9 (17ms); Queue length at the end of simulation run: 231
+Simulation run 10 (16ms); Queue length at the end of simulation run: 267
+
+==== Setting lot capacity to: 3====
+Simulation run 1 (23ms); Queue length at the end of simulation run: 245
+Simulation run 2 (23ms); Queue length at the end of simulation run: 260
+Simulation run 3 (24ms); Queue length at the end of simulation run: 241
+Simulation run 4 (23ms); Queue length at the end of simulation run: 269
+Simulation run 5 (23ms); Queue length at the end of simulation run: 257
+Simulation run 6 (23ms); Queue length at the end of simulation run: 256
+Simulation run 7 (25ms); Queue length at the end of simulation run: 234
+Simulation run 8 (23ms); Queue length at the end of simulation run: 237
+Simulation run 9 (24ms); Queue length at the end of simulation run: 240
+Simulation run 10 (23ms); Queue length at the end of simulation run: 224
+
+==== Setting lot capacity to: 4====
+Simulation run 1 (31ms); Queue length at the end of simulation run: 231
+Simulation run 2 (30ms); Queue length at the end of simulation run: 261
+Simulation run 3 (28ms); Queue length at the end of simulation run: 240
+Simulation run 4 (28ms); Queue length at the end of simulation run: 214
+Simulation run 5 (29ms); Queue length at the end of simulation run: 262
+Simulation run 6 (28ms); Queue length at the end of simulation run: 250
+Simulation run 7 (28ms); Queue length at the end of simulation run: 243
+Simulation run 8 (29ms); Queue length at the end of simulation run: 252
+Simulation run 9 (28ms); Queue length at the end of simulation run: 228
+Simulation run 10 (29ms); Queue length at the end of simulation run: 246
+
+==== Setting lot capacity to: 5====
+Simulation run 1 (37ms); Queue length at the end of simulation run: 242
+Simulation run 2 (35ms); Queue length at the end of simulation run: 256
+Simulation run 3 (36ms); Queue length at the end of simulation run: 231
+Simulation run 4 (36ms); Queue length at the end of simulation run: 226
+Simulation run 5 (35ms); Queue length at the end of simulation run: 237
+Simulation run 6 (37ms); Queue length at the end of simulation run: 229
+Simulation run 7 (35ms); Queue length at the end of simulation run: 265
+Simulation run 8 (36ms); Queue length at the end of simulation run: 237
+Simulation run 9 (35ms); Queue length at the end of simulation run: 254
+Simulation run 10 (36ms); Queue length at the end of simulation run: 223
+
+==== Setting lot capacity to: 6====
+Simulation run 1 (42ms); Queue length at the end of simulation run: 234
+Simulation run 2 (43ms); Queue length at the end of simulation run: 257
+Simulation run 3 (42ms); Queue length at the end of simulation run: 229
+Simulation run 4 (44ms); Queue length at the end of simulation run: 255
+Simulation run 5 (43ms); Queue length at the end of simulation run: 244
+Simulation run 6 (43ms); Queue length at the end of simulation run: 235
+Simulation run 7 (48ms); Queue length at the end of simulation run: 211
+Simulation run 8 (45ms); Queue length at the end of simulation run: 233
+Simulation run 9 (44ms); Queue length at the end of simulation run: 201
+Simulation run 10 (43ms); Queue length at the end of simulation run: 230
+
+==== Setting lot capacity to: 7====
+Simulation run 1 (50ms); Queue length at the end of simulation run: 218
+Simulation run 2 (49ms); Queue length at the end of simulation run: 242
+Simulation run 3 (50ms); Queue length at the end of simulation run: 222
+Simulation run 4 (50ms); Queue length at the end of simulation run: 204
+Simulation run 5 (50ms); Queue length at the end of simulation run: 221
+Simulation run 6 (50ms); Queue length at the end of simulation run: 246
+Simulation run 7 (50ms); Queue length at the end of simulation run: 225
+Simulation run 8 (50ms); Queue length at the end of simulation run: 201
+Simulation run 9 (51ms); Queue length at the end of simulation run: 240
+Simulation run 10 (50ms); Queue length at the end of simulation run: 225
+
+==== Setting lot capacity to: 8====
+Simulation run 1 (57ms); Queue length at the end of simulation run: 247
+Simulation run 2 (57ms); Queue length at the end of simulation run: 218
+Simulation run 3 (57ms); Queue length at the end of simulation run: 191
+Simulation run 4 (56ms); Queue length at the end of simulation run: 245
+Simulation run 5 (57ms); Queue length at the end of simulation run: 219
+Simulation run 6 (58ms); Queue length at the end of simulation run: 195
+Simulation run 7 (56ms); Queue length at the end of simulation run: 244
+Simulation run 8 (58ms); Queue length at the end of simulation run: 222
+Simulation run 9 (57ms); Queue length at the end of simulation run: 213
+Simulation run 10 (57ms); Queue length at the end of simulation run: 218
+
+==== Setting lot capacity to: 9====
+Simulation run 1 (63ms); Queue length at the end of simulation run: 195
+Simulation run 2 (64ms); Queue length at the end of simulation run: 241
+Simulation run 3 (66ms); Queue length at the end of simulation run: 218
+Simulation run 4 (64ms); Queue length at the end of simulation run: 206
+Simulation run 5 (65ms); Queue length at the end of simulation run: 214
+Simulation run 6 (65ms); Queue length at the end of simulation run: 261
+Simulation run 7 (68ms); Queue length at the end of simulation run: 236
+Simulation run 8 (65ms); Queue length at the end of simulation run: 232
+Simulation run 9 (64ms); Queue length at the end of simulation run: 212
+Simulation run 10 (66ms); Queue length at the end of simulation run: 230
+
+==== Setting lot capacity to: 10====
+Simulation run 1 (72ms); Queue length at the end of simulation run: 244
+Simulation run 2 (71ms); Queue length at the end of simulation run: 208
+Simulation run 3 (72ms); Queue length at the end of simulation run: 205
+Simulation run 4 (72ms); Queue length at the end of simulation run: 205
+Simulation run 5 (72ms); Queue length at the end of simulation run: 203
+Simulation run 6 (72ms); Queue length at the end of simulation run: 188
+Simulation run 7 (73ms); Queue length at the end of simulation run: 213
+Simulation run 8 (70ms); Queue length at the end of simulation run: 209
+Simulation run 9 (71ms); Queue length at the end of simulation run: 247
+Simulation run 10 (71ms); Queue length at the end of simulation run: 205
+
+==== Setting lot capacity to: 11====
+Simulation run 1 (80ms); Queue length at the end of simulation run: 217
+Simulation run 2 (80ms); Queue length at the end of simulation run: 209
+Simulation run 3 (79ms); Queue length at the end of simulation run: 200
+Simulation run 4 (80ms); Queue length at the end of simulation run: 213
+Simulation run 5 (78ms); Queue length at the end of simulation run: 200
+Simulation run 6 (78ms); Queue length at the end of simulation run: 223
+Simulation run 7 (79ms); Queue length at the end of simulation run: 215
+Simulation run 8 (80ms); Queue length at the end of simulation run: 235
+Simulation run 9 (79ms); Queue length at the end of simulation run: 208
+Simulation run 10 (81ms); Queue length at the end of simulation run: 203
+
+==== Setting lot capacity to: 12====
+Simulation run 1 (87ms); Queue length at the end of simulation run: 207
+Simulation run 2 (88ms); Queue length at the end of simulation run: 214
+Simulation run 3 (89ms); Queue length at the end of simulation run: 204
+Simulation run 4 (86ms); Queue length at the end of simulation run: 210
+Simulation run 5 (86ms); Queue length at the end of simulation run: 189
+Simulation run 6 (87ms); Queue length at the end of simulation run: 207
+Simulation run 7 (85ms); Queue length at the end of simulation run: 173
+Simulation run 8 (88ms); Queue length at the end of simulation run: 207
+Simulation run 9 (86ms); Queue length at the end of simulation run: 185
+Simulation run 10 (85ms); Queue length at the end of simulation run: 183
+
+==== Setting lot capacity to: 13====
+Simulation run 1 (93ms); Queue length at the end of simulation run: 196
+Simulation run 2 (96ms); Queue length at the end of simulation run: 179
+Simulation run 3 (95ms); Queue length at the end of simulation run: 185
+Simulation run 4 (94ms); Queue length at the end of simulation run: 197
+Simulation run 5 (94ms); Queue length at the end of simulation run: 194
+Simulation run 6 (95ms); Queue length at the end of simulation run: 188
+Simulation run 7 (93ms); Queue length at the end of simulation run: 164
+Simulation run 8 (93ms); Queue length at the end of simulation run: 203
+Simulation run 9 (94ms); Queue length at the end of simulation run: 194
+Simulation run 10 (96ms); Queue length at the end of simulation run: 192
+
+==== Setting lot capacity to: 14====
+Simulation run 1 (102ms); Queue length at the end of simulation run: 177
+Simulation run 2 (102ms); Queue length at the end of simulation run: 206
+Simulation run 3 (102ms); Queue length at the end of simulation run: 165
+Simulation run 4 (101ms); Queue length at the end of simulation run: 222
+Simulation run 5 (102ms); Queue length at the end of simulation run: 207
+Simulation run 6 (102ms); Queue length at the end of simulation run: 200
+Simulation run 7 (102ms); Queue length at the end of simulation run: 189
+Simulation run 8 (104ms); Queue length at the end of simulation run: 202
+Simulation run 9 (99ms); Queue length at the end of simulation run: 167
+Simulation run 10 (102ms); Queue length at the end of simulation run: 199
+
+==== Setting lot capacity to: 15====
+Simulation run 1 (111ms); Queue length at the end of simulation run: 152
+Simulation run 2 (107ms); Queue length at the end of simulation run: 224
+Simulation run 3 (110ms); Queue length at the end of simulation run: 211
+Simulation run 4 (111ms); Queue length at the end of simulation run: 174
+Simulation run 5 (107ms); Queue length at the end of simulation run: 168
+Simulation run 6 (110ms); Queue length at the end of simulation run: 199
+Simulation run 7 (108ms); Queue length at the end of simulation run: 210
+Simulation run 8 (110ms); Queue length at the end of simulation run: 177
+Simulation run 9 (110ms); Queue length at the end of simulation run: 190
+Simulation run 10 (110ms); Queue length at the end of simulation run: 164
+
+==== Setting lot capacity to: 16====
+Simulation run 1 (117ms); Queue length at the end of simulation run: 167
+Simulation run 2 (117ms); Queue length at the end of simulation run: 160
+Simulation run 3 (118ms); Queue length at the end of simulation run: 171
+Simulation run 4 (119ms); Queue length at the end of simulation run: 180
+Simulation run 5 (116ms); Queue length at the end of simulation run: 183
+Simulation run 6 (117ms); Queue length at the end of simulation run: 186
+Simulation run 7 (115ms); Queue length at the end of simulation run: 199
+Simulation run 8 (114ms); Queue length at the end of simulation run: 178
+Simulation run 9 (118ms); Queue length at the end of simulation run: 200
+Simulation run 10 (118ms); Queue length at the end of simulation run: 177
+
+==== Setting lot capacity to: 17====
+Simulation run 1 (127ms); Queue length at the end of simulation run: 146
+Simulation run 2 (125ms); Queue length at the end of simulation run: 155
+Simulation run 3 (126ms); Queue length at the end of simulation run: 149
+Simulation run 4 (125ms); Queue length at the end of simulation run: 155
+Simulation run 5 (126ms); Queue length at the end of simulation run: 197
+Simulation run 6 (127ms); Queue length at the end of simulation run: 175
+Simulation run 7 (121ms); Queue length at the end of simulation run: 156
+Simulation run 8 (126ms); Queue length at the end of simulation run: 175
+Simulation run 9 (124ms); Queue length at the end of simulation run: 192
+Simulation run 10 (126ms); Queue length at the end of simulation run: 168
+
+==== Setting lot capacity to: 18====
+Simulation run 1 (134ms); Queue length at the end of simulation run: 151
+Simulation run 2 (133ms); Queue length at the end of simulation run: 178
+Simulation run 3 (132ms); Queue length at the end of simulation run: 158
+Simulation run 4 (130ms); Queue length at the end of simulation run: 170
+Simulation run 5 (133ms); Queue length at the end of simulation run: 182
+Simulation run 6 (133ms); Queue length at the end of simulation run: 192
+Simulation run 7 (134ms); Queue length at the end of simulation run: 171
+Simulation run 8 (134ms); Queue length at the end of simulation run: 148
+Simulation run 9 (133ms); Queue length at the end of simulation run: 170
+Simulation run 10 (133ms); Queue length at the end of simulation run: 162
+
+==== Setting lot capacity to: 19====
+Simulation run 1 (141ms); Queue length at the end of simulation run: 195
+Simulation run 2 (145ms); Queue length at the end of simulation run: 176
+Simulation run 3 (141ms); Queue length at the end of simulation run: 181
+Simulation run 4 (144ms); Queue length at the end of simulation run: 189
+Simulation run 5 (141ms); Queue length at the end of simulation run: 145
+Simulation run 6 (138ms); Queue length at the end of simulation run: 140
+Simulation run 7 (142ms); Queue length at the end of simulation run: 192
+Simulation run 8 (143ms); Queue length at the end of simulation run: 163
+Simulation run 9 (137ms); Queue length at the end of simulation run: 175
+Simulation run 10 (141ms); Queue length at the end of simulation run: 157
+
+==== Setting lot capacity to: 20====
+Simulation run 1 (150ms); Queue length at the end of simulation run: 167
+Simulation run 2 (151ms); Queue length at the end of simulation run: 185
+Simulation run 3 (147ms); Queue length at the end of simulation run: 184
+Simulation run 4 (149ms); Queue length at the end of simulation run: 183
+Simulation run 5 (153ms); Queue length at the end of simulation run: 155
+Simulation run 6 (147ms); Queue length at the end of simulation run: 175
+Simulation run 7 (149ms); Queue length at the end of simulation run: 141
+Simulation run 8 (148ms); Queue length at the end of simulation run: 158
+Simulation run 9 (151ms); Queue length at the end of simulation run: 159
+Simulation run 10 (150ms); Queue length at the end of simulation run: 177
+
+==== Setting lot capacity to: 21====
+Simulation run 1 (157ms); Queue length at the end of simulation run: 155
+Simulation run 2 (161ms); Queue length at the end of simulation run: 117
+Simulation run 3 (160ms); Queue length at the end of simulation run: 196
+Simulation run 4 (161ms); Queue length at the end of simulation run: 149
+Simulation run 5 (155ms); Queue length at the end of simulation run: 143
+Simulation run 6 (158ms); Queue length at the end of simulation run: 149
+Simulation run 7 (156ms); Queue length at the end of simulation run: 167
+Simulation run 8 (160ms); Queue length at the end of simulation run: 157
+Simulation run 9 (158ms); Queue length at the end of simulation run: 182
+Simulation run 10 (161ms); Queue length at the end of simulation run: 184
+
+==== Setting lot capacity to: 22====
+Simulation run 1 (170ms); Queue length at the end of simulation run: 152
+Simulation run 2 (166ms); Queue length at the end of simulation run: 155
+Simulation run 3 (170ms); Queue length at the end of simulation run: 148
+Simulation run 4 (170ms); Queue length at the end of simulation run: 139
+Simulation run 5 (166ms); Queue length at the end of simulation run: 133
+Simulation run 6 (164ms); Queue length at the end of simulation run: 138
+Simulation run 7 (166ms); Queue length at the end of simulation run: 168
+Simulation run 8 (167ms); Queue length at the end of simulation run: 158
+Simulation run 9 (163ms); Queue length at the end of simulation run: 164
+Simulation run 10 (166ms); Queue length at the end of simulation run: 183
+
+==== Setting lot capacity to: 23====
+Simulation run 1 (178ms); Queue length at the end of simulation run: 124
+Simulation run 2 (174ms); Queue length at the end of simulation run: 146
+Simulation run 3 (173ms); Queue length at the end of simulation run: 137
+Simulation run 4 (174ms); Queue length at the end of simulation run: 156
+Simulation run 5 (175ms); Queue length at the end of simulation run: 146
+Simulation run 6 (171ms); Queue length at the end of simulation run: 143
+Simulation run 7 (175ms); Queue length at the end of simulation run: 164
+Simulation run 8 (175ms); Queue length at the end of simulation run: 136
+Simulation run 9 (175ms); Queue length at the end of simulation run: 162
+Simulation run 10 (169ms); Queue length at the end of simulation run: 144
+
+==== Setting lot capacity to: 24====
+Simulation run 1 (180ms); Queue length at the end of simulation run: 144
+Simulation run 2 (183ms); Queue length at the end of simulation run: 129
+Simulation run 3 (184ms); Queue length at the end of simulation run: 138
+Simulation run 4 (189ms); Queue length at the end of simulation run: 163
+Simulation run 5 (187ms); Queue length at the end of simulation run: 119
+Simulation run 6 (179ms); Queue length at the end of simulation run: 140
+Simulation run 7 (184ms); Queue length at the end of simulation run: 167
+Simulation run 8 (182ms); Queue length at the end of simulation run: 125
+Simulation run 9 (183ms); Queue length at the end of simulation run: 136
+Simulation run 10 (181ms); Queue length at the end of simulation run: 125
+
+==== Setting lot capacity to: 25====
+Simulation run 1 (185ms); Queue length at the end of simulation run: 133
+Simulation run 2 (189ms); Queue length at the end of simulation run: 139
+Simulation run 3 (191ms); Queue length at the end of simulation run: 110
+Simulation run 4 (189ms); Queue length at the end of simulation run: 130
+Simulation run 5 (195ms); Queue length at the end of simulation run: 135
+Simulation run 6 (194ms); Queue length at the end of simulation run: 135
+Simulation run 7 (192ms); Queue length at the end of simulation run: 140
+Simulation run 8 (196ms); Queue length at the end of simulation run: 147
+Simulation run 9 (189ms); Queue length at the end of simulation run: 146
+Simulation run 10 (189ms); Queue length at the end of simulation run: 137
+
+==== Setting lot capacity to: 26====
+Simulation run 1 (201ms); Queue length at the end of simulation run: 114
+Simulation run 2 (202ms); Queue length at the end of simulation run: 126
+Simulation run 3 (198ms); Queue length at the end of simulation run: 136
+Simulation run 4 (201ms); Queue length at the end of simulation run: 156
+Simulation run 5 (203ms); Queue length at the end of simulation run: 142
+Simulation run 6 (208ms); Queue length at the end of simulation run: 156
+Simulation run 7 (197ms); Queue length at the end of simulation run: 107
+Simulation run 8 (207ms); Queue length at the end of simulation run: 159
+Simulation run 9 (203ms); Queue length at the end of simulation run: 128
+Simulation run 10 (203ms); Queue length at the end of simulation run: 99
+
+==== Setting lot capacity to: 27====
+Simulation run 1 (213ms); Queue length at the end of simulation run: 113
+Simulation run 2 (211ms); Queue length at the end of simulation run: 110
+Simulation run 3 (201ms); Queue length at the end of simulation run: 125
+Simulation run 4 (205ms); Queue length at the end of simulation run: 107
+Simulation run 5 (215ms); Queue length at the end of simulation run: 132
+Simulation run 6 (208ms); Queue length at the end of simulation run: 98
+Simulation run 7 (211ms); Queue length at the end of simulation run: 124
+Simulation run 8 (206ms); Queue length at the end of simulation run: 138
+Simulation run 9 (235ms); Queue length at the end of simulation run: 141
+Simulation run 10 (215ms); Queue length at the end of simulation run: 123
+
+==== Setting lot capacity to: 28====
+Simulation run 1 (215ms); Queue length at the end of simulation run: 105
+Simulation run 2 (220ms); Queue length at the end of simulation run: 133
+Simulation run 3 (218ms); Queue length at the end of simulation run: 148
+Simulation run 4 (220ms); Queue length at the end of simulation run: 133
+Simulation run 5 (217ms); Queue length at the end of simulation run: 99
+Simulation run 6 (215ms); Queue length at the end of simulation run: 125
+Simulation run 7 (222ms); Queue length at the end of simulation run: 143
+Simulation run 8 (220ms); Queue length at the end of simulation run: 141
+Simulation run 9 (220ms); Queue length at the end of simulation run: 141
+Simulation run 10 (220ms); Queue length at the end of simulation run: 88
+
+==== Setting lot capacity to: 29====
+Simulation run 1 (225ms); Queue length at the end of simulation run: 133
+Simulation run 2 (232ms); Queue length at the end of simulation run: 132
+Simulation run 3 (230ms); Queue length at the end of simulation run: 148
+Simulation run 4 (228ms); Queue length at the end of simulation run: 143
+Simulation run 5 (231ms); Queue length at the end of simulation run: 95
+Simulation run 6 (223ms); Queue length at the end of simulation run: 109
+Simulation run 7 (227ms); Queue length at the end of simulation run: 102
+Simulation run 8 (230ms); Queue length at the end of simulation run: 147
+Simulation run 9 (229ms); Queue length at the end of simulation run: 142
+Simulation run 10 (222ms); Queue length at the end of simulation run: 134
+
+==== Setting lot capacity to: 30====
+Simulation run 1 (240ms); Queue length at the end of simulation run: 130
+Simulation run 2 (232ms); Queue length at the end of simulation run: 103
+Simulation run 3 (235ms); Queue length at the end of simulation run: 136
+Simulation run 4 (236ms); Queue length at the end of simulation run: 135
+Simulation run 5 (245ms); Queue length at the end of simulation run: 117
+Simulation run 6 (236ms); Queue length at the end of simulation run: 103
+Simulation run 7 (233ms); Queue length at the end of simulation run: 109
+Simulation run 8 (236ms); Queue length at the end of simulation run: 121
+Simulation run 9 (230ms); Queue length at the end of simulation run: 105
+Simulation run 10 (245ms); Queue length at the end of simulation run: 92
+
+==== Setting lot capacity to: 31====
+Simulation run 1 (242ms); Queue length at the end of simulation run: 117
+Simulation run 2 (243ms); Queue length at the end of simulation run: 110
+Simulation run 3 (246ms); Queue length at the end of simulation run: 113
+Simulation run 4 (240ms); Queue length at the end of simulation run: 115
+Simulation run 5 (241ms); Queue length at the end of simulation run: 114
+Simulation run 6 (242ms); Queue length at the end of simulation run: 78
+Simulation run 7 (233ms); Queue length at the end of simulation run: 115
+Simulation run 8 (240ms); Queue length at the end of simulation run: 91
+Simulation run 9 (249ms); Queue length at the end of simulation run: 109
+Simulation run 10 (237ms); Queue length at the end of simulation run: 127
+
+==== Setting lot capacity to: 32====
+Simulation run 1 (255ms); Queue length at the end of simulation run: 78
+Simulation run 2 (251ms); Queue length at the end of simulation run: 107
+Simulation run 3 (261ms); Queue length at the end of simulation run: 123
+Simulation run 4 (264ms); Queue length at the end of simulation run: 103
+Simulation run 5 (267ms); Queue length at the end of simulation run: 136
+Simulation run 6 (271ms); Queue length at the end of simulation run: 117
+Simulation run 7 (273ms); Queue length at the end of simulation run: 82
+Simulation run 8 (267ms); Queue length at the end of simulation run: 83
+Simulation run 9 (272ms); Queue length at the end of simulation run: 92
+Simulation run 10 (259ms); Queue length at the end of simulation run: 113
+
+==== Setting lot capacity to: 33====
+Simulation run 1 (286ms); Queue length at the end of simulation run: 92
+Simulation run 2 (281ms); Queue length at the end of simulation run: 107
+Simulation run 3 (271ms); Queue length at the end of simulation run: 106
+Simulation run 4 (276ms); Queue length at the end of simulation run: 105
+Simulation run 5 (275ms); Queue length at the end of simulation run: 130
+Simulation run 6 (268ms); Queue length at the end of simulation run: 106
+Simulation run 7 (257ms); Queue length at the end of simulation run: 96
+Simulation run 8 (276ms); Queue length at the end of simulation run: 113
+Simulation run 9 (267ms); Queue length at the end of simulation run: 103
+Simulation run 10 (262ms); Queue length at the end of simulation run: 110
+
+==== Setting lot capacity to: 34====
+Simulation run 1 (276ms); Queue length at the end of simulation run: 127
+Simulation run 2 (284ms); Queue length at the end of simulation run: 112
+Simulation run 3 (275ms); Queue length at the end of simulation run: 91
+Simulation run 4 (275ms); Queue length at the end of simulation run: 120
+Simulation run 5 (273ms); Queue length at the end of simulation run: 97
+Simulation run 6 (282ms); Queue length at the end of simulation run: 105
+Simulation run 7 (290ms); Queue length at the end of simulation run: 109
+Simulation run 8 (287ms); Queue length at the end of simulation run: 108
+Simulation run 9 (283ms); Queue length at the end of simulation run: 92
+Simulation run 10 (274ms); Queue length at the end of simulation run: 80
+
+==== Setting lot capacity to: 35====
+Simulation run 1 (296ms); Queue length at the end of simulation run: 125
+Simulation run 2 (293ms); Queue length at the end of simulation run: 78
+Simulation run 3 (293ms); Queue length at the end of simulation run: 107
+Simulation run 4 (295ms); Queue length at the end of simulation run: 115
+Simulation run 5 (299ms); Queue length at the end of simulation run: 76
+Simulation run 6 (292ms); Queue length at the end of simulation run: 100
+Simulation run 7 (286ms); Queue length at the end of simulation run: 88
+Simulation run 8 (280ms); Queue length at the end of simulation run: 71
+Simulation run 9 (314ms); Queue length at the end of simulation run: 103
+Simulation run 10 (289ms); Queue length at the end of simulation run: 91
+
+==== Setting lot capacity to: 36====
+Simulation run 1 (317ms); Queue length at the end of simulation run: 78
+Simulation run 2 (297ms); Queue length at the end of simulation run: 75
+Simulation run 3 (293ms); Queue length at the end of simulation run: 66
+Simulation run 4 (326ms); Queue length at the end of simulation run: 92
+Simulation run 5 (315ms); Queue length at the end of simulation run: 93
+Simulation run 6 (315ms); Queue length at the end of simulation run: 101
+Simulation run 7 (299ms); Queue length at the end of simulation run: 62
+Simulation run 8 (302ms); Queue length at the end of simulation run: 60
+Simulation run 9 (314ms); Queue length at the end of simulation run: 104
+Simulation run 10 (317ms); Queue length at the end of simulation run: 77
+
+==== Setting lot capacity to: 37====
+Simulation run 1 (317ms); Queue length at the end of simulation run: 94
+Simulation run 2 (333ms); Queue length at the end of simulation run: 105
+Simulation run 3 (311ms); Queue length at the end of simulation run: 70
+Simulation run 4 (316ms); Queue length at the end of simulation run: 93
+Simulation run 5 (300ms); Queue length at the end of simulation run: 60
+Simulation run 6 (291ms); Queue length at the end of simulation run: 80
+Simulation run 7 (301ms); Queue length at the end of simulation run: 88
+Simulation run 8 (308ms); Queue length at the end of simulation run: 68
+Simulation run 9 (313ms); Queue length at the end of simulation run: 81
+Simulation run 10 (320ms); Queue length at the end of simulation run: 96
+
+==== Setting lot capacity to: 38====
+Simulation run 1 (316ms); Queue length at the end of simulation run: 102
+Simulation run 2 (304ms); Queue length at the end of simulation run: 67
+Simulation run 3 (318ms); Queue length at the end of simulation run: 59
+Simulation run 4 (323ms); Queue length at the end of simulation run: 84
+Simulation run 5 (332ms); Queue length at the end of simulation run: 65
+Simulation run 6 (316ms); Queue length at the end of simulation run: 61
+Simulation run 7 (317ms); Queue length at the end of simulation run: 71
+Simulation run 8 (358ms); Queue length at the end of simulation run: 50
+Simulation run 9 (316ms); Queue length at the end of simulation run: 120
+Simulation run 10 (346ms); Queue length at the end of simulation run: 86
+
+==== Setting lot capacity to: 39====
+Simulation run 1 (330ms); Queue length at the end of simulation run: 91
+Simulation run 2 (309ms); Queue length at the end of simulation run: 54
+Simulation run 3 (323ms); Queue length at the end of simulation run: 106
+Simulation run 4 (337ms); Queue length at the end of simulation run: 77
+Simulation run 5 (318ms); Queue length at the end of simulation run: 65
+Simulation run 6 (322ms); Queue length at the end of simulation run: 90
+Simulation run 7 (317ms); Queue length at the end of simulation run: 31
+Simulation run 8 (320ms); Queue length at the end of simulation run: 49
+Simulation run 9 (319ms); Queue length at the end of simulation run: 71
+Simulation run 10 (338ms); Queue length at the end of simulation run: 61
+
+==== Setting lot capacity to: 40====
+Simulation run 1 (318ms); Queue length at the end of simulation run: 62
+Simulation run 2 (333ms); Queue length at the end of simulation run: 73
+Simulation run 3 (324ms); Queue length at the end of simulation run: 73
+Simulation run 4 (324ms); Queue length at the end of simulation run: 84
+Simulation run 5 (332ms); Queue length at the end of simulation run: 81
+Simulation run 6 (322ms); Queue length at the end of simulation run: 47
+Simulation run 7 (331ms); Queue length at the end of simulation run: 34
+Simulation run 8 (345ms); Queue length at the end of simulation run: 71
+Simulation run 9 (318ms); Queue length at the end of simulation run: 79
+Simulation run 10 (332ms); Queue length at the end of simulation run: 75
+
+==== Setting lot capacity to: 41====
+Simulation run 1 (326ms); Queue length at the end of simulation run: 44
+Simulation run 2 (339ms); Queue length at the end of simulation run: 76
+Simulation run 3 (327ms); Queue length at the end of simulation run: 57
+Simulation run 4 (347ms); Queue length at the end of simulation run: 64
+Simulation run 5 (345ms); Queue length at the end of simulation run: 84
+Simulation run 6 (354ms); Queue length at the end of simulation run: 77
+Simulation run 7 (342ms); Queue length at the end of simulation run: 53
+Simulation run 8 (333ms); Queue length at the end of simulation run: 67
+Simulation run 9 (350ms); Queue length at the end of simulation run: 55
+Simulation run 10 (348ms); Queue length at the end of simulation run: 77
+
+==== Setting lot capacity to: 42====
+Simulation run 1 (358ms); Queue length at the end of simulation run: 56
+Simulation run 2 (357ms); Queue length at the end of simulation run: 61
+Simulation run 3 (343ms); Queue length at the end of simulation run: 46
+Simulation run 4 (356ms); Queue length at the end of simulation run: 43
+Simulation run 5 (354ms); Queue length at the end of simulation run: 82
+Simulation run 6 (354ms); Queue length at the end of simulation run: 53
+Simulation run 7 (335ms); Queue length at the end of simulation run: 30
+Simulation run 8 (348ms); Queue length at the end of simulation run: 88
+Simulation run 9 (352ms); Queue length at the end of simulation run: 53
+Simulation run 10 (349ms); Queue length at the end of simulation run: 68
+
+==== Setting lot capacity to: 43====
+Simulation run 1 (365ms); Queue length at the end of simulation run: 87
+Simulation run 2 (349ms); Queue length at the end of simulation run: 45
+Simulation run 3 (347ms); Queue length at the end of simulation run: 62
+Simulation run 4 (358ms); Queue length at the end of simulation run: 82
+Simulation run 5 (360ms); Queue length at the end of simulation run: 68
+Simulation run 6 (363ms); Queue length at the end of simulation run: 65
+Simulation run 7 (354ms); Queue length at the end of simulation run: 66
+Simulation run 8 (351ms); Queue length at the end of simulation run: 59
+Simulation run 9 (349ms); Queue length at the end of simulation run: 74
+Simulation run 10 (352ms); Queue length at the end of simulation run: 59
+
+==== Setting lot capacity to: 44====
+Simulation run 1 (390ms); Queue length at the end of simulation run: 43
+Simulation run 2 (378ms); Queue length at the end of simulation run: 55
+Simulation run 3 (350ms); Queue length at the end of simulation run: 24
+Simulation run 4 (370ms); Queue length at the end of simulation run: 53
+Simulation run 5 (375ms); Queue length at the end of simulation run: 47
+Simulation run 6 (352ms); Queue length at the end of simulation run: 65
+Simulation run 7 (364ms); Queue length at the end of simulation run: 29
+Simulation run 8 (376ms); Queue length at the end of simulation run: 36
+Simulation run 9 (378ms); Queue length at the end of simulation run: 46
+Simulation run 10 (377ms); Queue length at the end of simulation run: 81
+
+==== Setting lot capacity to: 45====
+Simulation run 1 (379ms); Queue length at the end of simulation run: 44
+Simulation run 2 (379ms); Queue length at the end of simulation run: 48
+Simulation run 3 (374ms); Queue length at the end of simulation run: 20
+Simulation run 4 (392ms); Queue length at the end of simulation run: 62
+Simulation run 5 (393ms); Queue length at the end of simulation run: 52
+Simulation run 6 (378ms); Queue length at the end of simulation run: 67
+Simulation run 7 (379ms); Queue length at the end of simulation run: 71
+Simulation run 8 (389ms); Queue length at the end of simulation run: 57
+Simulation run 9 (375ms); Queue length at the end of simulation run: 64
+Simulation run 10 (389ms); Queue length at the end of simulation run: 43
+
+==== Setting lot capacity to: 46====
+Simulation run 1 (382ms); Queue length at the end of simulation run: 42
+Simulation run 2 (398ms); Queue length at the end of simulation run: 46
+Simulation run 3 (387ms); Queue length at the end of simulation run: 23
+Simulation run 4 (393ms); Queue length at the end of simulation run: 29
+Simulation run 5 (372ms); Queue length at the end of simulation run: 48
+Simulation run 6 (397ms); Queue length at the end of simulation run: 50
+Simulation run 7 (390ms); Queue length at the end of simulation run: 34
+Simulation run 8 (390ms); Queue length at the end of simulation run: 85
+Simulation run 9 (371ms); Queue length at the end of simulation run: 65
+Simulation run 10 (372ms); Queue length at the end of simulation run: 16
+
+==== Setting lot capacity to: 47====
+Simulation run 1 (418ms); Queue length at the end of simulation run: 40
+Simulation run 2 (403ms); Queue length at the end of simulation run: 40
+Simulation run 3 (401ms); Queue length at the end of simulation run: 38
+Simulation run 4 (427ms); Queue length at the end of simulation run: 51
+Simulation run 5 (414ms); Queue length at the end of simulation run: 74
+Simulation run 6 (404ms); Queue length at the end of simulation run: 40
+Simulation run 7 (426ms); Queue length at the end of simulation run: 31
+Simulation run 8 (381ms); Queue length at the end of simulation run: 62
+Simulation run 9 (441ms); Queue length at the end of simulation run: 36
+Simulation run 10 (393ms); Queue length at the end of simulation run: 59
+
+==== Setting lot capacity to: 48====
+Simulation run 1 (421ms); Queue length at the end of simulation run: 35
+Simulation run 2 (403ms); Queue length at the end of simulation run: 52
+Simulation run 3 (411ms); Queue length at the end of simulation run: 31
+Simulation run 4 (441ms); Queue length at the end of simulation run: 21
+Simulation run 5 (476ms); Queue length at the end of simulation run: 35
+Simulation run 6 (424ms); Queue length at the end of simulation run: 49
+Simulation run 7 (406ms); Queue length at the end of simulation run: 53
+Simulation run 8 (418ms); Queue length at the end of simulation run: 42
+Simulation run 9 (396ms); Queue length at the end of simulation run: 10
+Simulation run 10 (396ms); Queue length at the end of simulation run: 35
+
+==== Setting lot capacity to: 49====
+Simulation run 1 (424ms); Queue length at the end of simulation run: 32
+Simulation run 2 (425ms); Queue length at the end of simulation run: 1
+Simulation run 3 (432ms); Queue length at the end of simulation run: 0
+Simulation run 4 (408ms); Queue length at the end of simulation run: 40
+Simulation run 5 (409ms); Queue length at the end of simulation run: 50
+Simulation run 6 (440ms); Queue length at the end of simulation run: 68
+Simulation run 7 (413ms); Queue length at the end of simulation run: 41
+Simulation run 8 (438ms); Queue length at the end of simulation run: 18
+Simulation run 9 (439ms); Queue length at the end of simulation run: 49
+Simulation run 10 (409ms); Queue length at the end of simulation run: 43
+
+==== Setting lot capacity to: 50====
+Simulation run 1 (443ms); Queue length at the end of simulation run: 43
+Simulation run 2 (431ms); Queue length at the end of simulation run: 31
+Simulation run 3 (429ms); Queue length at the end of simulation run: 28
+Simulation run 4 (451ms); Queue length at the end of simulation run: 29
+Simulation run 5 (394ms); Queue length at the end of simulation run: 15
+Simulation run 6 (350ms); Queue length at the end of simulation run: 16
+Simulation run 7 (441ms); Queue length at the end of simulation run: 15
+Simulation run 8 (441ms); Queue length at the end of simulation run: 44
+Simulation run 9 (398ms); Queue length at the end of simulation run: 32
+Simulation run 10 (430ms); Queue length at the end of simulation run: 0
+
+==== Setting lot capacity to: 51====
+Simulation run 1 (433ms); Queue length at the end of simulation run: 57
+Simulation run 2 (418ms); Queue length at the end of simulation run: 21
+Simulation run 3 (433ms); Queue length at the end of simulation run: 23
+Simulation run 4 (449ms); Queue length at the end of simulation run: 32
+Simulation run 5 (452ms); Queue length at the end of simulation run: 24
+Simulation run 6 (422ms); Queue length at the end of simulation run: 29
+Simulation run 7 (435ms); Queue length at the end of simulation run: 30
+Simulation run 8 (457ms); Queue length at the end of simulation run: 43
+Simulation run 9 (466ms); Queue length at the end of simulation run: 34
+Simulation run 10 (445ms); Queue length at the end of simulation run: 24
+
+==== Setting lot capacity to: 52====
+Simulation run 1 (445ms); Queue length at the end of simulation run: 42
+Simulation run 2 (439ms); Queue length at the end of simulation run: 31
+Simulation run 3 (458ms); Queue length at the end of simulation run: 53
+Simulation run 4 (450ms); Queue length at the end of simulation run: 4
+Simulation run 5 (469ms); Queue length at the end of simulation run: 37
+Simulation run 6 (415ms); Queue length at the end of simulation run: 10
+Simulation run 7 (460ms); Queue length at the end of simulation run: 27
+Simulation run 8 (449ms); Queue length at the end of simulation run: 56
+Simulation run 9 (453ms); Queue length at the end of simulation run: 23
+Simulation run 10 (435ms); Queue length at the end of simulation run: 14
+
+==== Setting lot capacity to: 53====
+Simulation run 1 (477ms); Queue length at the end of simulation run: 17
+Simulation run 2 (478ms); Queue length at the end of simulation run: 16
+Simulation run 3 (465ms); Queue length at the end of simulation run: 9
+Simulation run 4 (465ms); Queue length at the end of simulation run: 39
+Simulation run 5 (432ms); Queue length at the end of simulation run: 0
+Simulation run 6 (489ms); Queue length at the end of simulation run: 9
+Simulation run 7 (409ms); Queue length at the end of simulation run: 0
+Simulation run 8 (452ms); Queue length at the end of simulation run: 29
+Simulation run 9 (484ms); Queue length at the end of simulation run: 15
+Simulation run 10 (444ms); Queue length at the end of simulation run: 42
+
+==== Setting lot capacity to: 54====
+Simulation run 1 (449ms); Queue length at the end of simulation run: 1
+Simulation run 2 (512ms); Queue length at the end of simulation run: 0
+Simulation run 3 (461ms); Queue length at the end of simulation run: 12
+Simulation run 4 (457ms); Queue length at the end of simulation run: 13
+Simulation run 5 (468ms); Queue length at the end of simulation run: 29
+Simulation run 6 (505ms); Queue length at the end of simulation run: 26
+Simulation run 7 (483ms); Queue length at the end of simulation run: 0
+Simulation run 8 (448ms); Queue length at the end of simulation run: 29
+Simulation run 9 (440ms); Queue length at the end of simulation run: 7
+Simulation run 10 (498ms); Queue length at the end of simulation run: 16
+
+==== Setting lot capacity to: 55====
+Simulation run 1 (486ms); Queue length at the end of simulation run: 38
+Simulation run 2 (542ms); Queue length at the end of simulation run: 38
+Simulation run 3 (496ms); Queue length at the end of simulation run: 6
+Simulation run 4 (447ms); Queue length at the end of simulation run: 10
+Simulation run 5 (487ms); Queue length at the end of simulation run: 0
+Simulation run 6 (490ms); Queue length at the end of simulation run: 12
+Simulation run 7 (496ms); Queue length at the end of simulation run: 31
+Simulation run 8 (470ms); Queue length at the end of simulation run: 11
+Simulation run 9 (487ms); Queue length at the end of simulation run: 8
+Simulation run 10 (554ms); Queue length at the end of simulation run: 21
+
+==== Setting lot capacity to: 56====
+Simulation run 1 (479ms); Queue length at the end of simulation run: 0
+Simulation run 2 (499ms); Queue length at the end of simulation run: 0
+Simulation run 3 (429ms); Queue length at the end of simulation run: 0
+Simulation run 4 (462ms); Queue length at the end of simulation run: 0
+Simulation run 5 (464ms); Queue length at the end of simulation run: 18
+Simulation run 6 (521ms); Queue length at the end of simulation run: 16
+Simulation run 7 (495ms); Queue length at the end of simulation run: 16
+Simulation run 8 (505ms); Queue length at the end of simulation run: 31
+Simulation run 9 (494ms); Queue length at the end of simulation run: 11
+Simulation run 10 (443ms); Queue length at the end of simulation run: 1
+
+==== Setting lot capacity to: 57====
+Simulation run 1 (523ms); Queue length at the end of simulation run: 32
+Simulation run 2 (473ms); Queue length at the end of simulation run: 12
+Simulation run 3 (417ms); Queue length at the end of simulation run: 10
+Simulation run 4 (520ms); Queue length at the end of simulation run: 7
+Simulation run 5 (411ms); Queue length at the end of simulation run: 0
+Simulation run 6 (514ms); Queue length at the end of simulation run: 0
+Simulation run 7 (508ms); Queue length at the end of simulation run: 31
+Simulation run 8 (504ms); Queue length at the end of simulation run: 21
+Simulation run 9 (548ms); Queue length at the end of simulation run: 6
+Simulation run 10 (525ms); Queue length at the end of simulation run: 30
+
+==== Setting lot capacity to: 58====
+Simulation run 1 (467ms); Queue length at the end of simulation run: 0
+Simulation run 2 (480ms); Queue length at the end of simulation run: 0
+Simulation run 3 (541ms); Queue length at the end of simulation run: 11
+Simulation run 4 (522ms); Queue length at the end of simulation run: 23
+Simulation run 5 (541ms); Queue length at the end of simulation run: 12
+Simulation run 6 (516ms); Queue length at the end of simulation run: 13
+Simulation run 7 (472ms); Queue length at the end of simulation run: 0
+Simulation run 8 (445ms); Queue length at the end of simulation run: 6
+Simulation run 9 (518ms); Queue length at the end of simulation run: 3
+Simulation run 10 (534ms); Queue length at the end of simulation run: 25
+
+==== Setting lot capacity to: 59====
+Simulation run 1 (520ms); Queue length at the end of simulation run: 6
+Simulation run 2 (505ms); Queue length at the end of simulation run: 8
+Simulation run 3 (445ms); Queue length at the end of simulation run: 10
+Simulation run 4 (505ms); Queue length at the end of simulation run: 3
+Simulation run 5 (413ms); Queue length at the end of simulation run: 1
+Simulation run 6 (494ms); Queue length at the end of simulation run: 0
+Simulation run 7 (509ms); Queue length at the end of simulation run: 14
+Simulation run 8 (495ms); Queue length at the end of simulation run: 3
+Simulation run 9 (544ms); Queue length at the end of simulation run: 24
+Simulation run 10 (548ms); Queue length at the end of simulation run: 21
+
+==== Setting lot capacity to: 60====
+Simulation run 1 (475ms); Queue length at the end of simulation run: 4
+Simulation run 2 (474ms); Queue length at the end of simulation run: 0
+Simulation run 3 (499ms); Queue length at the end of simulation run: 22
+Simulation run 4 (533ms); Queue length at the end of simulation run: 16
+Simulation run 5 (474ms); Queue length at the end of simulation run: 0
+Simulation run 6 (451ms); Queue length at the end of simulation run: 2
+Simulation run 7 (519ms); Queue length at the end of simulation run: 0
+Simulation run 8 (371ms); Queue length at the end of simulation run: 0
+Simulation run 9 (456ms); Queue length at the end of simulation run: 0
+Simulation run 10 (481ms); Queue length at the end of simulation run: 1
+
+SIMULATION IS COMPLETE!
+The smallest number of parking spots required: 60
+Total execution time: 150.844 seconds

@@ -1,0 +1,74 @@
+============= Testing Q1.1 =============
+String array: {"A", "B", "C", "D"}
+Forward traversal:  [A->B->C->D]
+Backward traversal: [D->C->B->A]
+
+Integer array: {5, 10, 15, 20, 25}
+Forward traversal:  [5->10->15->20->25]
+Backward traversal: [25->20->15->10->5]
+
+Integer array (single element): {10}
+Forward traversal:  [10]
+Backward traversal: [10]
+
+Integer array (two elements): {10, 20}
+Forward traversal:  [10->20]
+Backward traversal: [20->10]
+
+Integer array (no element): {}
+Hurray! An exception was thrown for empty array.
+
+============= Testing Q1.2 =============
+String array: {"A", "B", "C", "D"}
+>>>>> Original array toString():
+Forward traversal:  [A->B->C->D]
+Backward traversal: [D->C->B->A]
+
+>>>>> Tweaked array toString():
+Forward traversal:  [A->B->C->D]
+Backward traversal: [D->B->A]
+
+Integer array: {5, 10, 15, 20, 25}
+>>>>> Original array toString():
+Forward traversal:  [5->10->15->20->25]
+Backward traversal: [25->20->15->10->5]
+
+>>>>> Tweaked array toString():
+Forward traversal:  [5->10->15->20->25]
+Backward traversal: [25->15->5]
+
+Integer array (single element): {10}
+>>>>> Original array toString():
+Forward traversal:  [10]
+Backward traversal: [10]
+
+>>>>> Tweaked array toString():
+Forward traversal:  [10]
+Backward traversal: [10]
+
+Integer array (two elements): {10, 20}
+>>>>> Original array toString():
+Forward traversal:  [10->20]
+Backward traversal: [20->10]
+
+>>>>> Tweaked array toString():
+Forward traversal:  [10->20]
+Backward traversal: [20->10]
+
+============= Testing Q1.3 =============
+String array: {"A", "B", "C", "D", "E", "F", "G"}
+Sequence returned by next() on original list: A, B, C, D, E, F, G, F, E, D, C, B, A
+Sequence returned by next() on tweaked list: A, B, C, D, E, F, G, E, C, A
+
+String array: {"A", "B", "C", "D"}
+Sequence returned by next() on original list: A, B, C, D, C, B, A
+Sequence returned by next() on tweaked list: A, B, C, D, B, A
+
+String array: {"A", "B"}
+Sequence returned by next() on original list: A, B, A
+Sequence returned by next() on tweaked list: A, B, A
+
+String array: {"A"}
+Sequence returned by next() on original list: A
+Sequence returned by next() on tweaked list: A
+

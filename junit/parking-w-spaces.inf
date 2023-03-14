@@ -1,0 +1,13 @@
+S,     S,      S, S, N
+R, R, L,     L, E
+R, R, L, L, E
+
+S, S, S, S, N
+
+###
+
+0,     1, S, ABC
+
+1, 2,     L, ABD
+
+3, 3, S,     ABX

@@ -1,0 +1,13 @@
+============= Testing Q2 =============
+>>>> Testing with two queues >>>>>
+Queue0: [A1, A2, A3, A4, A5, A6, A7, A8]
+Queue1: [B1, B2, B3, B4]
+Merged queue: [A1, B1, A2, B2, A3, B3, A4, B4, A5, A6, A7, A8]
+
+>>>> Testing with five queues >>>>>
+Queue0: [A1, A2, A3, A4, A5]
+Queue1: [B1, B2, B3]
+Queue2: [C1]
+Queue3: []
+Queue4: [E1, E2, E3, E4, E5, E6, E7]
+Merged queue: [A1, B1, C1, E1, A2, B2, E2, A3, B3, E3, A4, E4, A5, E5, E6, E7]
