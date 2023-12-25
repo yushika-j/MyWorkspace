@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-12-25T11:06:40.577Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Ah4lmkHMM6g5vYKJGm03" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-25T11:07:21.741Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="4aDFChtn7PqD9Pr92jyh" version="22.1.11" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1107" dy="493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="NlOmEx-S1s1jkpWfvt1N-0" value="Soldier" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="350" y="20" width="180" height="430" as="geometry" />
+          <mxGeometry x="350" y="20" width="180" height="368" as="geometry" />
         </mxCell>
         <mxCell id="NlOmEx-S1s1jkpWfvt1N-1" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;String name&lt;br&gt;String department&lt;br&gt;int age&lt;br&gt;int armor&lt;br&gt;int health&lt;br&gt;int primaryGun&lt;br&gt;int secondaryGun&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="NlOmEx-S1s1jkpWfvt1N-0">
           <mxGeometry y="26" width="180" height="114" as="geometry" />
@@ -14,7 +14,7 @@
           <mxGeometry y="140" width="180" height="8" as="geometry" />
         </mxCell>
         <mxCell id="NlOmEx-S1s1jkpWfvt1N-3" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;+getName()&lt;br&gt;+getDepartment()&lt;br&gt;+getAge()&lt;br&gt;+getArmor()&lt;br&gt;+getHealth()&lt;br&gt;+getPrimaryGun()&lt;br&gt;+getSecondaryGun()&lt;br&gt;+setName(String myName)&lt;br&gt;+setDepartment(String myDepartment)&lt;br&gt;+setAge(int myAge)&lt;br&gt;+setArmor(int myArmor)&lt;br&gt;+setHealth(int myHealth)&lt;br&gt;+setPrimaryGun(int myPrimaryGun)&lt;br&gt;+setSecondaryGun(int mySecondaryGun)&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="NlOmEx-S1s1jkpWfvt1N-0">
-          <mxGeometry y="148" width="180" height="282" as="geometry" />
+          <mxGeometry y="148" width="180" height="220" as="geometry" />
         </mxCell>
         <mxCell id="NlOmEx-S1s1jkpWfvt1N-4" value="Attacker" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="110" y="520" width="230" height="200" as="geometry" />
@@ -40,10 +40,10 @@
         <mxCell id="NlOmEx-S1s1jkpWfvt1N-11" value="+attack()&lt;br&gt;+takeCover()&lt;br&gt;+attackedOnArmor(int damageReceived)&lt;br&gt;+attacked(int damageReceived)&lt;br&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="NlOmEx-S1s1jkpWfvt1N-8">
           <mxGeometry y="108" width="230" height="72" as="geometry" />
         </mxCell>
-        <mxCell id="NlOmEx-S1s1jkpWfvt1N-38" value="Extends" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;entryX=0.827;entryY=1.009;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="NlOmEx-S1s1jkpWfvt1N-38" value="Extends" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="660.34" y="520" as="sourcePoint" />
-            <mxPoint x="489.9999999999999" y="452.538" as="targetPoint" />
+            <mxPoint x="670.34" y="520" as="sourcePoint" />
+            <mxPoint x="500" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NlOmEx-S1s1jkpWfvt1N-39" value="Extends" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.081;entryY=1.013;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="NlOmEx-S1s1jkpWfvt1N-4" target="NlOmEx-S1s1jkpWfvt1N-3">
